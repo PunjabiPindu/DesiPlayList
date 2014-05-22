@@ -1,9 +1,14 @@
 #http://goo.gl/GimsRx
-<poster>PunjabiPindu FoB</poster>
+<poster>--=FoB Punjabi=--</poster>
 <fanart>http://www.desicomments.com/dc1/05/115433/115433.jpg</fanart>
 <thumbnail>http://www.desicomments.com/dc1/05/115433/115433.jpg</thumbnail>
 #
+
 <directories>
+
+	<name>[COLOR red]--=FoB Releases=--[/COLOR]</name>
+	<link>nil</link>
+	<thumbnail>http://i.ytimg.com/vi/u6NHrFKs2rI/0.jpg</thumbnail>
 	
 	<name>[COLOR blue]--=HD Releases=--[/COLOR]</name>
 	<link>nil</link>
@@ -13,11 +18,8 @@
 	<link>nil</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 
-	<name>[COLOR white]--=Punjabi=--[/COLOR]</name>
-	<link>nil</link>
-	<thumbnail>http://www.uni.edu/becker/Punjab%20culture.jpg</thumbnail>
-
 </directories>
+
 
 <item>
 <title> Romeo Ranjha (2014) [COLOR orange]PDVD[/COLOR]</title>
@@ -82,75 +84,3 @@
 	</link>
 	<thumbnail>http://dekhfilm.com/wp-content/uploads/2014/04/Dil-Vil-Pyaar-Vyaar-Gurdas-Maan-Jassi-Gill-Neeru-Bajwa.jpg</thumbnail>
 </item>
-
-<item>
-<title>Shaadi Ke Side Effects (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/embed-r9cvgx1vuw4f-720x480.html
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Total Siyapaa (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/n1pex6ui039j
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Gunday (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/v2ie7puwis88
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Bewakoofiyaan (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-	<sublink>
-		http://vidto.me/pg67fg1oip0b
-	</sublink>
-	<sublink>
-		http://141.255.162.59/dl/9e209c5ffaa30682fcf723cb309c159d/537b92cb/ffd6190e8ff43aed87ea7817cd9ec6748d.flv
-	</sublink>
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Queen (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/vt3k1x5295ki
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Gang of Ghosts (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/db2tdek0f7x8
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Hasee Toh Phasee (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/j1zbcqphkor0
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Dishkiyaoon (2014) [COLOR blue] HD [/COLOR] </title> 
-	<link>
-		http://vidto.me/pi2xz6k49nsc
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-
-

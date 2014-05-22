@@ -1,13 +1,14 @@
 #http://goo.gl/GimsRx
-<poster>PunjabiPindu FoB</poster>
+<poster>--=FoB HD=--</poster>
 <fanart>http://www.desicomments.com/dc1/05/115433/115433.jpg</fanart>
 <thumbnail>http://www.desicomments.com/dc1/05/115433/115433.jpg</thumbnail>
 #
+
 <directories>
 	
-	<name>[COLOR blue]--=HD Releases=--[/COLOR]</name>
+	<name>[COLOR red]--=FoB Releases=--[/COLOR]</name>
 	<link>nil</link>
-	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
+	<thumbnail>http://i.ytimg.com/vi/u6NHrFKs2rI/0.jpg</thumbnail>
 
 	<name>[COLOR green]--=DVD Releases=--[/COLOR]</name>
 	<link>nil</link>
@@ -19,14 +20,8 @@
 
 </directories>
 
-<item>
-<title> Romeo Ranjha (2014) [COLOR orange]PDVD[/COLOR]</title>
-	<link>
-		<sublink>http://www.firedrive.com/file/5A78BCD27E0E238C</sublink>
-		<sublink>http://www.firedrive.com/file/96E61A6913069303</sublink>
-	</link>
-<thumbnail>http://img.xcitefun.net/users/2014/01/352361,xcitefun-romeo-ranjha-1.jpg</thumbnail>
-</item>
+
+
 
 <item>
 <title> Marriage da Garriage (2014) [COLOR blue] HD [/COLOR] </title>
@@ -35,52 +30,6 @@
 		<sublink>http://billionuploads.com/mum3fi31c62n</sublink>
 	</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/1/15/Marriage_Da_Garriage_Poster.jpg</thumbnail>
-</item>
-
-<item>
-<title> Jatt Airways (2014) [COLOR lime]DVD[/COLOR]</title>
-	<link>
-		http://billionuploads.com/iywyy6d53xc3
-	</link>
-<thumbnail>http://www.impawards.com/intl/india/2013/posters/jatt_airways_ver4_xlg.jpg</thumbnail>
-</item>
-
-<item>
-<title>Mr And Mrs 420 (2014) [COLOR orange]PDVD[/COLOR]</title>
-	<link>
-		http://www.firedrive.com/file/9760F4CD2AB3EFC0
-	</link>
-<thumbnail>http://f11.wapkafiles.com/download/3/1/e/2164871_31e83dbad02261309496f776.jpg/84f5efc04809dd1bbdd8/mr-and-mrs-420-punjabi-movie-2014-2.jpg</thumbnail>
-</item>
-
-<item>
-<title>Disco Singh (2014) [COLOR orange]PDVD[/COLOR]</title>
-	<link>
-		http://vidto.me/e5nrag7yrcon
-	</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Assi Haan Yaar Punjabi (2014) [COLOR green]DVD[/COLOR]</title>
-	<link>
-		http://flashx.tv/video/JQB2BV3LWCAJVYH/
-	</link>
-<thumbnail>http://pollywoodmasala.com/wp-content/uploads/2014/01/Yara-Assi-Haan-Yaar-Punjabi.jpg</thumbnail>
-</item>
- 
-
-<item>
-	<title>Dil Vil Pyaar Vyaar (2014) [COLOR yellow]DVDSCR[/COLOR]</title>
-	<link>
-	<sublink>
-		http://flashx.tv/video/PUZG54A1JCXTUKE/
-	</sublink>
-	<sublink>
-		http://vidto.me/embed-g9s7v85drqhl-720x480.html
-	</sublink>
-	</link>
-	<thumbnail>http://dekhfilm.com/wp-content/uploads/2014/04/Dil-Vil-Pyaar-Vyaar-Gurdas-Maan-Jassi-Gill-Neeru-Bajwa.jpg</thumbnail>
 </item>
 
 <item>
@@ -151,6 +100,5 @@
 	</link>
 <thumbnail> </thumbnail>
 </item>
-
 
 
