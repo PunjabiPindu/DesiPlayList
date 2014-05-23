@@ -1,4 +1,6 @@
 #http://goo.gl/GimsRx
+#http://jo.my/fob
+
 <poster>PunjabiPindu FoB</poster>
 <fanart>http://www.desicomments.com/dc1/05/115433/115433.jpg</fanart>
 <thumbnail>http://www.desicomments.com/dc1/05/115433/115433.jpg</thumbnail>
@@ -6,15 +8,15 @@
 <directories>
 	
 	<name>[COLOR blue]--=HD Releases=--[/COLOR]</name>
-	<link>nil</link>
+	<link>http://uuu.my/fobhd</link>
 	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
 
 	<name>[COLOR green]--=DVD Releases=--[/COLOR]</name>
-	<link>nil</link>
+	<link>http://uuu.my/fobdvd</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 
 	<name>[COLOR white]--=Punjabi=--[/COLOR]</name>
-	<link>nil</link>
+	<link>http://uuu.my/fobpunjabi</link>
 	<thumbnail>http://www.uni.edu/becker/Punjab%20culture.jpg</thumbnail>
 
 </directories>
