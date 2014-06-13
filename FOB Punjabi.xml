@@ -45,7 +45,7 @@
 	<link>https://raw.githubusercontent.com/PunjabiPindu/DesiPlayList/master/Punjabi/DS.xml</link>
 	<thumbnail>http://www.filmycurry.com/wp-content/uploads/2014/03/disco-3.jpg</thumbnail>
 
-	<name>Assi Haan Yaar Punjabi (2014) [COLOR green]DVD[/COLOR]</name>
+	<name>Assi Haan Yaar Punjabi (2014) [COLOR green]HD[/COLOR]</name>
 	<link>https://raw.githubusercontent.com/PunjabiPindu/DesiPlayList/master/Punjabi/AHYP.xml</link>
 	<thumbnail>http://pollywoodmasala.com/wp-content/uploads/2014/01/Yara-Assi-Haan-Yaar-Punjabi.jpg</thumbnail>	
 	
@@ -53,12 +53,43 @@
 	<link>https://raw.githubusercontent.com/PunjabiPindu/DesiPlayList/master/Punjabi/DVPV.xml</link>
 	<thumbnail>http://dekhfilm.com/wp-content/uploads/2014/04/Dil-Vil-Pyaar-Vyaar-Gurdas-Maan-Jassi-Gill-Neeru-Bajwa.jpg</thumbnail>	
 	
-	<name>Ronde Sare Vyah Picho RSVP [COLOR green] DVD [/COLOR]</name>
+	<name>Ronde Sare Vyah Picho RSVP [COLOR green]HD[/COLOR]</name>
 	<link>https://raw.githubusercontent.com/PunjabiPindu/DesiPlayList/master/Punjabi/RSVP.xml</link>
 	<thumbnail>http://humsms.com/wp-content/uploads/2014/01/humsms.comronde_saare_vyah_picho-2.jpg</thumbnail>	
 		
 </directories>
 
+<item>
+<title> Sadda Haq (2014) [COLOR blue]HD[/COLOR]</title>
+	<link>
+		<sublink>http://www.youtube.com/watch?v=ppbeNqf0mk0</sublink>
+	</link>
+<thumbnail>http://www.mm1movies.com/wp-content/uploads/2013/05/Sadda-Haq-2013.jpg</thumbnail>
+</item>
+
+<item>
+<title> Mere Yaar Kaminey (2014) [COLOR blue]HD[/COLOR]</title>
+	<link>
+		<sublink>http://www.youtube.com/watch?v=oBMBftcQJcY</sublink>
+	</link>
+<thumbnail>http://www.mm1movies.com/wp-content/uploads/2013/05/Sadda-Haq-2013.jpg</thumbnail>
+</item>
+
+<item>
+<title> Pata Nahi Rabb Kehdeyan Rangan Ch Raazi (2014) [COLOR blue]HD[/COLOR]</title>
+	<link>
+		<sublink>http://www.youtube.com/watch?v=_s0O4MPdTR4</sublink>
+	</link>
+<thumbnail>http://www.impawards.com/intl/india/2012/pata_nahi_rabb_kehdeyan_rangan_ch_raazi_xlg.html</thumbnail>
+</item>
+
+<item>
+<title> Dil Pardesi Ho Gaya (2014) [COLOR blue]HD[/COLOR]</title>
+	<link>
+		<sublink>http://www.youtube.com/watch?v=GMACHjplBKg</sublink>
+	</link>
+<thumbnail>http://www.movieszip.com/wp-content/uploads/2014/05/dil-pardesi-ho-geya-poster.jpg</thumbnail>
+</item>
 
 <item>
 <title> Romeo Ranjha (2014) [COLOR orange]PDVD[/COLOR]</title>
