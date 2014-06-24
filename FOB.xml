@@ -19,7 +19,11 @@
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 	<date>6/5/2014</date>
 	
+<<<<<<< HEAD
 	<name>[COLOR white]--=Punjabi=--[/COLOR] [COLOR red] 24/06/14 [/COLOR]</name>
+=======
+	<name>[COLOR white]--=Punjabi=--[/COLOR]  [COLOR red] 18/06/14 [/COLOR]</name>
+>>>>>>> origin/master
 	<link>http://uuu.my/fobpunjabi</link>
 	<thumbnail>http://www.uni.edu/becker/Punjab%20culture.jpg</thumbnail>
 	<date>5/26/2014</date>
@@ -37,9 +41,17 @@
 </item>
 
 <item>
-<title>Fugly (2014) [COLOR orange] PDVD [/COLOR]</title> 
+<title>Mr And Mrs 420 (2014) [COLOR lime] DVD [/COLOR]</title>
+	<link>
+		http://www.firedrive.com/file/B2D14A3DFC0D250B
+	</link>
+<thumbnail>http://f11.wapkafiles.com/download/3/1/e/2164871_31e83dbad02261309496f776.jpg/84f5efc04809dd1bbdd8/mr-and-mrs-420-punjabi-movie-2014-2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fugly (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
 <link>
-	<sublink>http://www.firedrive.com/file/A296E8C64C9EFAF3</sublink>
+	<sublink>http://www.firedrive.com/file/EB010045417DD569</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/archive/6/63/20140604060733!Fugly_Hindi_Film_Poster.jpg</thumbnail>
 </item>
@@ -137,13 +149,7 @@
 <thumbnail>http://www.impawards.com/intl/india/2013/posters/jatt_airways_ver4_xlg.jpg</thumbnail>
 </item>
 
-<item>
-<title>Mr And Mrs 420 (2014) [COLOR orange] PDVD [/COLOR]</title>
-	<link>
-		http://www.firedrive.com/file/9760F4CD2AB3EFC0
-	</link>
-<thumbnail>http://f11.wapkafiles.com/download/3/1/e/2164871_31e83dbad02261309496f776.jpg/84f5efc04809dd1bbdd8/mr-and-mrs-420-punjabi-movie-2014-2.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Disco Singh (2014) [COLOR orange] PDVD [/COLOR]</title>
