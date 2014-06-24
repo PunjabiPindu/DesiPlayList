@@ -9,22 +9,32 @@
 
 <directories>
 	
-	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 15/06/14 [/COLOR]</name>
+	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 24/06/14 [/COLOR]</name>
 	<link>http://uuu.my/fobhd</link>
 	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
 	<date>6/5/2014</date>
 
-	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 14/06/14 [/COLOR]</name>
+	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 24/06/14 [/COLOR]</name>
 	<link>http://uuu.my/fobdvd</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 	<date>6/5/2014</date>
 	
-	<name>[COLOR white]--=Punjabi=--[/COLOR]</name>
+	<name>[COLOR white]--=Punjabi=--[/COLOR] [COLOR red] 24/06/14 [/COLOR]</name>
 	<link>http://uuu.my/fobpunjabi</link>
 	<thumbnail>http://www.uni.edu/becker/Punjab%20culture.jpg</thumbnail>
 	<date>5/26/2014</date>
 	 
 </directories>
+
+
+
+<item>
+<title>Expose (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
+<link>
+	<sublink>http://www.firedrive.com/file/ACA9AE4C13824A8E</sublink>
+</link>
+<thumbnail>https://www.clapsnslaps.com/img/movies/8393/the-xpose-poster-2.jpg</thumbnail>
+</item>
 
 <item>
 <title>Fugly (2014) [COLOR orange] PDVD [/COLOR]</title> 
