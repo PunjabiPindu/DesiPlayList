@@ -9,12 +9,12 @@
 
 <directories>
 	
-	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 14/07/14 [/COLOR]</name>
+	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 25/07/14 [/COLOR]</name>
 	<link>http://uuu.my/fobhd</link>
 	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
 
 
-	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 13/07/14 [/COLOR]</name>
+	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 25/07/14 [/COLOR]</name>
 	<link>http://uuu.my/fobdvd</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 
@@ -23,7 +23,7 @@
 	<link>http://uuu.my/fobpunjabi</link>
 	<thumbnail>http://www.glitters20.com/wp-content/uploads/2013/02/Punjabi-Glitters-189.jpg</thumbnail>
 	
-	<name>[COLOR gold]--=Gold Collection=--[/COLOR] [COLOR red] 18/07/14 [/COLOR]</name>
+	<name>[COLOR gold]--=Gold Collection=--[/COLOR] [COLOR red] 25/07/14 [/COLOR]</name>
 	<link>http://uuu.my/fobgold</link>
 	<thumbnail>http://www.pinkvilla.com/files/images/1980%20ANNUAL%20STARDUST.jpg</thumbnail>
 
@@ -33,6 +33,48 @@
 
 	 
 </directories>
+
+<info>
+	<message>[B][COLOR red] Sorry Source being fixed [/COLOR][/B]</message>
+	<message>[B][COLOR red] Trying to put more links up to help [/COLOR][/B]</message>
+	<message>[B][COLOR steelblue]Twitter[/COLOR]: [COLOR white]@PunjabiPindu[/COLOR][/B]</message>
+</info>
+
+<title>Yaaran Da Katcup (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
+<link>
+	<sublink>http://www.nowvideo.sx/video/7c1efaa23c62f</sublink>
+	<sublink>http://movzap.com/7gjzlwrkhsiq.html</sublink>
+</link>
+<thumbnail>http://youthvocal.com/wp-content/uploads/2014/07/Yaaran-Da-Katchup-2014-Mp3-Songs-Full-Music-Album-Download.jpg</thumbnail>
+</item>
+
+<item>
+<title>Double Attack (2014) [COLOR lime] DVD [/COLOR]</title> 
+<link>
+	<sublink>http://www.firedrive.com/file/8C20009FB0F3C862</sublink>
+	<sublink>http://movzap.com/28q972idnxh0.html</sublink>
+</link>
+<thumbnail>http://shyfyy.files.wordpress.com/2014/03/humshakals1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Humshakals (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
+<link>
+	<sublink>http://www.nowvideo.sx/video/563039f64d93e</sublink>
+	<sublink>http://movzap.com/pnt7z9jjcwpb.html</sublink>
+</link>
+<thumbnail>http://shyfyy.files.wordpress.com/2014/03/humshakals1.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Chal Bhaag (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
+<link>
+	<sublink>http://movzap.com/jtn3xr7feqwt.html</sublink>
+</link>
+<thumbnail>http://cdn.bollywoodmdb.com/movies/largethumb/2014/chal-bhaag/chal-bhaag-poster-2.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>Humpty Sharma Ki Dulhania (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
@@ -47,7 +89,9 @@
 <item>
 <title>Ek Villain (2014) [COLOR yellow] SCR [/COLOR]</title> 
 <link>
+	<sublink>http://movreel.com/4a1pbzb0t0k6.html</sublink>
 	<sublink>http://mightyupload.com/120m55fp0fks/EK_VILLAIN_2014_DVDSCR_TEAM_DUS.mkv.html</sublink>
+	<sublink>http://movzap.com/q10l6q7ifbyy.html</sublink>
 </link>
 <thumbnail>http://st1.bollywoodlife.com/wp-content/uploads/2014/05/ek-villain-poster-new.jpg</thumbnail>
 </item>
