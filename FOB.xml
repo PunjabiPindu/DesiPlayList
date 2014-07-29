@@ -9,12 +9,12 @@
 
 <directories>
 	
-	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 25/07/14 [/COLOR]</name>
+	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 29/07/14 [/COLOR]</name>
 	<link>http://uuu.my/fobhd</link>
 	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
 
 
-	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 25/07/14 [/COLOR]</name>
+	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 29/07/14 [/COLOR]</name>
 	<link>http://uuu.my/fobdvd</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 
@@ -34,11 +34,29 @@
 	 
 </directories>
 
-<info>
-	<message>[B][COLOR red] Sorry Source being fixed [/COLOR][/B]</message>
-	<message>[B][COLOR red] Trying to put more links up to help [/COLOR][/B]</message>
-	<message>[B][COLOR steelblue]Twitter[/COLOR]: [COLOR white]@PunjabiPindu[/COLOR][/B]</message>
-</info>
+<item>
+<title>Lekar Hum Deewana Dil (2014) [COLOR lime] DVD [/COLOR]</title> 
+<link>
+	<sublink>http://www.firedrive.com/file/050587916A9A1302</sublink>
+</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6a/Lekar_Hum_Deewana_Dil_poster.JPG</thumbnail>
+</item>
+
+<title>Amit Sahni Ki List(2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
+<link>
+	<sublink>http://movzap.com/4p2osub7thnv.html</sublink>
+	<sublink>http://www.nowvideo.sx/video/d22376dbff7fd</sublink>
+</link>
+<thumbnail>http://istoreimg.com/upload/big/2014/07/28/53d5e86ca4c5d.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kya Dilli Kya Lahore (2014) [COLOR lime] DVD [/COLOR]</title> 
+<link>
+	<sublink>http://www.firedrive.com/file/82886E1DCD7DC1FA</sublink>
+</link>
+<thumbnail>http://cdn.bollywoodmdb.com/movies/largethumb/2012/kya-dilli-kya-lahore/kya-dilli-kya-lahore_poster_3.jpg</thumbnail>
+</item>
 
 <title>Kick(2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
 <link>
@@ -120,13 +138,7 @@
 <thumbnail>http://image.songsuno.com/movie-images/original/movie/bhadaas/bhadaas-poster.jpg</thumbnail>
 </item>
 
-<item>
-<title>Holiday (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
-<link>
-	<sublink>http://movzap.com/psppxc4w2peb.html</sublink>
-</link>
-<thumbnail>http://media1.santabanta.com/full1/Bollywood%20Movies/Holiday%202014/holiday-2014-2a.jpg</thumbnail>
-</item>
+
 
 <item>
 <title>Bobby Jasoos (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
@@ -134,14 +146,6 @@
 	<sublink>http://movzap.com/yvktsie5rdu9.html</sublink>
 </link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/d2/Bobby_Jasoos_Poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>Lekar Hum Deewana Dil (2014) [COLOR yellow] DVDSCR [/COLOR]</title> 
-<link>
-	<sublink>http://movzap.com/n0mbirgrhun6.html</sublink>
-</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6a/Lekar_Hum_Deewana_Dil_poster.JPG</thumbnail>
 </item>
 
 
