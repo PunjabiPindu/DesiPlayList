@@ -49,6 +49,18 @@
 </item>
 
 <item>
+<title>Sony [25/08/14]</title>
+<link>rtmpe://watch.playfooty.tv:1935/live playPath=sonytv99 swfUrl=http://www.playfooty.tv/play/player/player.swf swfVfy=1 live=true pageUrl=http://www.playfooty.tv/play/embed.php?u=sonytv99</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>ZEE [25/08/14]</title>
+<link>rtmpe://watch.playfooty.tv:1935/live playPath=zeetv99 swfUrl=http://www.playfooty.tv/play/player/player.swf swfVfy=1 live=true pageUrl=http://www.playfooty.tv/play/embed.php?u=zeetv99</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
 <title>EROS [25/08/14]</title>
 <link>http://livehls.erosnow.com/channel/1000001/chunklist.m3u8</link>
 <thumbnail> </thumbnail>
