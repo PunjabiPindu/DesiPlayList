@@ -72,6 +72,21 @@
 <thumbnail> </thumbnail>
 </item>
 
+<item>Bollywood Movies<title> </title>
+<link>rtsp://46.249.213.87/broadcast/bollywoodmovies-tablet.3gp</link><thumbnail> </thumbnail></item>  
+
+<item>Bollywood Action Ch1<title> </title>
+<link>rtsp://46.249.213.87/broadcast/bollywoodaction-tablet.3gp</link><thumbnail> </thumbnail></item>  
+
+<item>Bollywood Action Ch2<title> </title>
+<link>rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp</link><thumbnail> </thumbnail></item>  
+
+<item>Hindi Movies<title> </title>
+<link>rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp</link><thumbnail> </thumbnail></item>  
+
+
+
+
 <item><title> CNN [28/08/14]</title>
 <link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
 </link><thumbnail> </thumbnail></item> 
