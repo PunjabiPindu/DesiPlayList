@@ -23,92 +23,141 @@
 	<message>[B]Live Desi[/B]</message>
 </info>
 
+
 <item>
-<title>Akaal TV [25/08/14]</title>
-<link>http://cdn-hls.globecast.tv/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-audio_eng_70000_120%3D70000-video%3D750000.m3u8</link>
+<title>Kabbadi PTC Punjabi: Sports</title>
+<link>http://109.200.20.26:8981/ptcp/ptcp/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Zee Cafe: Entertainment</title>
+<link>http://80.243.182.106:8080/zeecafe00/zeecafe00/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 
 <item>
-<title>B4U Movies [25/08/14]</title>
-<link>rtmp://50.7.175.252:1940/base2 token=Vu4KaBzaxa playpath=dd25.stream swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://desilivetv.net/zee-smile/</link>
+<title>Star Plus: Entertainment</title>
+<link>http://188.166.11.245:8080/starplushd/starplushd/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Bolly Movies [25/08/14]</title>
-<link>http://46.249.213.87/iPhone/broadcast/bollywoodmovies-tablet.3gp/bollywoodmovies-tablet.3gp-mr647k.m3u8?trackingid=3310010000&os=desktop</link>
+<title>ATV: Entertainment</title>
+<link>http://cdn.ebound.tv:1935/tv/atv/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>APNA: Entertainment</title>
+<link>http://80.243.182.106:8080/apna00230/apna00230/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>Zee Smile: Entertainment</title>
+<link>http://80.243.182.106:8080/zeec12323/zee12323/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Colors [25/08/14]</title>
-<link>rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/channel.php?u=colors99 swfVfy=1 live=1 timeout=15</link>
+<title>Set Max: Movies</title>
+<link>http://cdn.ebound.tv:1935/tv/satmax/playlist.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Sony [25/08/14]</title>
-<link>rtmpe://watch.playfooty.tv:1935/live playPath=sonytv99 swfUrl=http://www.playfooty.tv/play/player/player.swf swfVfy=1 live=true pageUrl=http://www.playfooty.tv/play/embed.php?u=sonytv99</link>
+<title>Zee cinema: Movies</title>
+<link>http://188.166.11.245:8080/zeecin/zeecin/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>ZEE [25/08/14]</title>
-<link>rtmpe://watch.playfooty.tv:1935/live playPath=zeetv99 swfUrl=http://www.playfooty.tv/play/player/player.swf swfVfy=1 live=true pageUrl=http://www.playfooty.tv/play/embed.php?u=zeetv99</link>
+<title>Zee cinema 2: Movies</title>
+<link>http://188.166.11.245:8080/ZEECIN/ZEECIN2/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>Star Gold : Movies</title>
+<link>http://80.243.182.106:8080/stargold223/stargold223/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>EROS [25/08/14]</title>
-<link>http://livehls.erosnow.com/channel/1000001/chunklist.m3u8</link>
+<title>Zee Khana Khazana: Cooking</title>
+<link>http://80.243.182.106:8080/zeekhana001/zeekhana001/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>Hum Masala Tv: Cooking</title>
+<link>http://80.243.182.106:8080/masalatv1122/masalatv1122/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>PTV Sports : Cricket World Cup 2015</title>
+<link>http://cdn.ebound.tv:1935/tv/ptvsports_sub/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+
+<item>
+<title>Willow Cricket: Cricket World Cup 2015</title>
+<link>http://167.114.41.220:8080/willOWCRIC/ET/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Star Plus [25/08/14]</title>
-<link>rtmpe://watch.playfooty.tv/live playpath=starplus99 swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv/play/channel.php?u=starplus99 swfVfy=1 live=1 timeout=15</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>Bollywood Movies<title> </title>
-<link>rtsp://46.249.213.87/broadcast/bollywoodmovies-tablet.3gp</link><thumbnail> </thumbnail></item>  
-
-<item>Bollywood Action Ch1<title> </title>
-<link>rtsp://46.249.213.87/broadcast/bollywoodaction-tablet.3gp</link><thumbnail> </thumbnail></item>  
-
-<item>Bollywood Action Ch2<title> </title>
-<link>rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp</link><thumbnail> </thumbnail></item>  
-
-<item>Hindi Movies<title> </title>
-<link>rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp</link><thumbnail> </thumbnail></item>  
-
-
-<item><title> CNN [28/08/14]</title>
-<link>http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
-</link><thumbnail> </thumbnail></item> 
-
-<item><title> ABC News [28/08/14]</title>
-<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-</link><thumbnail> </thumbnail></item> 
-
-<item>
-<title>ESPN 1 [28/08/14]</title>
-<link>rtmp://37.49.224.21:1935/live/eesscew</link>
+<title>Ten Cricket: Cricket World Cup 2015</title>
+<link>http://167.114.41.220:8080/Ten/CricKETTTT456/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Fox Sports [28/08/14]</title>
-<link>rtmp://31.220.0.104:1935/live playpath=fox1x pageUrl=http://www.flashtv.co/loboicaperucita token=%ZZri(nKa@#Z</link>
+<title>TEN SPORTS: Cricket World Cup 2015</title>
+<link>http://cdn.ebound.tv:1935/tv/tensports_sub/playlist.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
+<item>
+<title>Osn Cricket: Cricket World Cup 2015</title>
+<link>http://cdn.ebound.tv:1935/tv/sports1/playlist.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
 
-<item><title> NBA [28/08/14]</title>
-<link>rtmp://46.246.29.141:1935/stream/K8l9h6j8.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf pageUrl=http://04stream.com/ live=true
-</link><thumbnail> </thumbnail></item>  
+<item>
+<title>Star Sports 1: Cricket World Cup 2015</title>
+<link>http://167.114.41.220:8080/STAR/SPORTS1one3/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Star Sports 2: Cricket World Cup 2015</title>
+<link>http://167.114.41.220:8080/str2/strrrrrrrrrrr2/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Star Sports 3: Cricket World Cup 2015</title>
+<link>http://167.114.41.220:8080/starrr3/star33/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Star Sports 4: Cricket World Cup 2015</title>
+<link>http://167.114.41.220:8080/star4/channel4/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
 
 <directories>
 	
