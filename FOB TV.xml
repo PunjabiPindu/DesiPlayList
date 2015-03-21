@@ -7,84 +7,86 @@
 </info>
 
 
-<directories>
-
-	<name>Mahabharat (2013) [COLOR red] [Broken. Sorry need to fix host] [/COLOR]</name>
-	<link> </link>
-	<thumbnail>https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn2/1380692_10152012246557868_1935224201_n.jpg</thumbnail>	
-
-	<name>Comedy Nights with Kapil</name>
-	<link>http://uuu.my/kapil</link>
-	<thumbnail>http://s26.postimg.org/it0g2hru1/0d56745586c575049b13c1b561ce1981.png</thumbnail>		
-	
-</directories>
-
 <info>
 	<message>[B]Live Desi[/B]</message>
 </info>
 
 
 <item>
-<title>Kabbadi PTC Punjabi: Sports</title>
+<title>Kabbadi PTC Punjabi: Sports [COLOR red] Down4now [/COLOR]</title>
 <link>http://109.200.20.26:8981/ptcp/ptcp/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Zee Cafe: Entertainment</title>
+<title>Zee Cafe: Entertainment [COLOR green] 21 Mar [/COLOR]</title>
 <link>http://80.243.182.106:8080/zeecafe00/zeecafe00/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 
 <item>
-<title>Star Plus: Entertainment</title>
-<link>http://188.166.11.245:8080/starplushd/starplushd/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>ATV: Entertainment</title>
-<link>http://cdn.ebound.tv:1935/tv/atv/playlist.m3u8</link>
+<title>Star Plus: Entertainment [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/starplus/starplus/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 
 <item>
-<title>APNA: Entertainment</title>
-<link>http://80.243.182.106:8080/apna00230/apna00230/index.m3u8</link>
+<title>ATV: Entertainment [COLOR green] 21 Mar [/COLOR]</title>
+<link>
+	<sublink>http://cdn.ebound.tv:1935/tv/atv/playlist.m3u8</sublink>
+	<sublink>http://192.99.24.176:8080/atv/atv/index.m3u8</sublink>
+</link>
 <thumbnail> </thumbnail>
 </item>
 
 
 <item>
-<title>Zee Smile: Entertainment</title>
+<title>APNA: Entertainment [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/apnatv/apnatv/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+<item>
+<title>URDU [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/urdu1/urdu1/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+<item>
+<title>Punjabi [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddpunjabi.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+
+<item>
+<title>Zee Smile: Entertainment [COLOR red] Down4now [/COLOR]</title>
 <link>http://80.243.182.106:8080/zeec12323/zee12323/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 <item>
-<title>Set Max: Movies</title>
-<link>http://cdn.ebound.tv:1935/tv/satmax/playlist.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Zee cinema: Movies</title>
-<link>http://188.166.11.245:8080/zeecin/zeecin/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Zee cinema 2: Movies</title>
-<link>http://188.166.11.245:8080/ZEECIN/ZEECIN2/index.m3u8</link>
+<title>Set Max: Movies [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/satmax/satmax/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
 
 <item>
-<title>Star Gold : Movies</title>
-<link>http://80.243.182.106:8080/stargold223/stargold223/index.m3u8</link>
+<title>Zee cinema: Movies [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/zeec/zeec/index.m3u8</link>
+<thumbnail> </thumbnail>
+</item>
+
+
+
+<item>
+<title>Star Gold : Movies [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/starg01d/stargoldo1/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
@@ -101,60 +103,9 @@
 <thumbnail> </thumbnail>
 </item>
 
-
 <item>
-<title>PTV Sports : Cricket World Cup 2015</title>
-<link>http://cdn.ebound.tv:1935/tv/ptvsports_sub/playlist.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-
-
-<item>
-<title>Willow Cricket: Cricket World Cup 2015</title>
-<link>http://167.114.41.220:8080/willOWCRIC/ET/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Ten Cricket: Cricket World Cup 2015</title>
-<link>http://167.114.41.220:8080/Ten/CricKETTTT456/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>TEN SPORTS: Cricket World Cup 2015</title>
-<link>http://cdn.ebound.tv:1935/tv/tensports_sub/playlist.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Osn Cricket: Cricket World Cup 2015</title>
-<link>http://cdn.ebound.tv:1935/tv/sports1/playlist.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Star Sports 1: Cricket World Cup 2015</title>
-<link>http://167.114.41.220:8080/STAR/SPORTS1one3/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Star Sports 2: Cricket World Cup 2015</title>
-<link>http://167.114.41.220:8080/str2/strrrrrrrrrrr2/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Star Sports 3: Cricket World Cup 2015</title>
-<link>http://167.114.41.220:8080/starrr3/star33/index.m3u8</link>
-<thumbnail> </thumbnail>
-</item>
-
-<item>
-<title>Star Sports 4: Cricket World Cup 2015</title>
-<link>http://167.114.41.220:8080/star4/channel4/index.m3u8</link>
+<title>Willow Cricket [COLOR green] 21 Mar [/COLOR]</title>
+<link>http://192.99.24.176:8080/wiLllow/will001W/index.m3u8</link>
 <thumbnail> </thumbnail>
 </item>
 
