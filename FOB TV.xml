@@ -26,11 +26,18 @@
 
 
 <item>
-<title>Star Plus: Entertainment [COLOR green] 21 Mar [/COLOR]</title>
-<link>http://192.99.24.176:8080/starplus/starplus/index.m3u8</link>
+<title>Star Plus: Entertainment [COLOR green] 30 Mar [/COLOR]</title>
+<link>
+	<sublink>rtmp://37.48.118.29/live?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE1IDU6Mjg6MDMgUE0maGFzaF92YWx1ZT15ZjlWOXFXQWVuQVJJZllBZE5sblJ3PT0mdmFsaWRtaW51dGVzPTIw/stplus</sublink>
+	<sublink>http://192.99.24.176:8080/starplus/starplus/index.m3u8</sublink>
+</link>
 <thumbnail> </thumbnail>
 </item>
 
+<item>
+      <title>Channel Test</title>
+      <link>rtmp://37.48.118.29/live?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDE1IDU6Mjg6MDMgUE0maGFzaF92YWx1ZT15ZjlWOXFXQWVuQVJJZllBZE5sblJ3PT0mdmFsaWRtaW51dGVzPTIw/stplus</link>
+</item>
 
 <item>
 <title>ATV: Entertainment [COLOR green] 21 Mar [/COLOR]</title>
