@@ -10,15 +10,15 @@
 
 <directories>
 	
-	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 8 JUL [/COLOR]</name>
+	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 14 AUG [/COLOR]</name>
 	<link>http://uuu.my/fobhd</link>
 	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
 
-	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 8 JUL [/COLOR]</name>
+	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 14 AUG [/COLOR]</name>
 	<link>http://uuu.my/fobdvd</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 
-	<name>[COLOR white]--=Punjabi=--[/COLOR] [COLOR red] 8 JUL [/COLOR]</name>
+	<name>[COLOR white]--=Punjabi=--[/COLOR] [COLOR red] 14 AUG [/COLOR]</name>
 	<link>http://uuu.my/fobpunjabi</link>
 	<thumbnail>http://www.glitters20.com/wp-content/uploads/2013/02/Punjabi-Glitters-189.jpg</thumbnail>
 	
@@ -26,7 +26,7 @@
 	<link>http://uuu.my/fobgold</link>
 	<thumbnail>http://www.pinkvilla.com/files/images/1980%20ANNUAL%20STARDUST.jpg</thumbnail>
 
-	<name>[COLOR orange]--=TV=--[/COLOR] [COLOR red] 21 Mar [/COLOR]</name>
+	<name>[COLOR orange]--=TV=--[/COLOR] [COLOR red] 21 MAR [/COLOR]</name>
 	<link>http://uuu.my/fobtv</link>
 	<thumbnail>http://www.pak101.com/funnypictures/Creative/2012/9/10/Introducing_desi_3D_TV_vsxqu_Pak101(dot)com.jpg</thumbnail>	
 	 
@@ -47,97 +47,119 @@
 </link>
 <thumbnail> </thumbnail>
 
-<!-- Tanu Weds Manu Returns 2015 Hindi DVDRip -->
+<!-- Tanu Weds Manu Returns 2015 Hindi 720p BRRip 900mb -->
 <item>
-<title>Tanu Weds Manu Returns (2015) [COLOR lime] DVD [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Tanu Weds Manu Returns (2015) [COLOR blue] DVD [/COLOR] [COLOR gold]BRRip 900mb[/COLOR] </title>
 <link>
-	<sublink>http://185.45.14.81/kj2vzernee6vtaw52bhj4n6cfvxs6e6ye7t6ucx2xzjpg6gnh25hkcbcihmq/v.mp4</sublink>
+	<sublink>rtmp://38.74.197.40:80/vod/mp4:/mp4/hd/2015010034_00.mp4</sublink>
 </link>
 <thumbnail>http://1.bp.blogspot.com/-fzeDGxycVQg/VS6GIJH3zZI/AAAAAAAANFQ/ygwIK7zIn_0/s400/Tanu%2BWeds%2BManu%2BReturns%2B2015%2BOfficial%2BTrailer%2B720p%2BHD.jpg</thumbnail>
 </item>
 
+<!-- Abcd 2 2015 Hindi 720p DVDRip 1.2GB ESub -->
 <item>
-<title>Bajrangi Bhaijaan (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Abcd 2 (2015) [COLOR lime] HD [/COLOR] [COLOR gold]DVDRip 1.2GB ESub[/COLOR] </title>
+<link>
+	<sublink>http://www8.uptobox.com/stream/bh0pdt0ad8/720/0</sublink>
+	<sublink>http://livematch.org.uk/newapp/upload/abcd2.flv</sublink>
+	<sublink>rtmp://38.74.197.41:80/vod/mp4:/mp4/high/2015010041_00.mp4</sublink>
+</link>
+<thumbnail>http://1.bp.blogspot.com/-H7tYKLavepE/VTfBFAXLCmI/AAAAAAAANlA/6xoDdEMe7bg/s400/ABCD%2B2%2B2015%2BOfficial%2BTrailer%2B720p%2BHD.jpg</thumbnail>
+</item>
+
+<!-- Vikalp 2015 Hindi DVDRip 700mb -->
+<item>
+<title>Vikalp (2015) [COLOR lime] DVD [/COLOR] [COLOR gold]DVDRip 700mb[/COLOR] </title>
 <link>
 	<sublink></sublink>
-	<sublink>http://185.45.15.120/kj2vzxjyee6vtaw52bhz4pwrfutbuwszuulkqe2tp7dcwumcxj5v5cnrewpq/v.mp4</sublink>
+	<sublink>http://www82.uptobox.com/stream/bh0q685843/360/0</sublink>
 </link>
-<thumbnail>http://2.bp.blogspot.com/-VT6pz-qUrl8/Vajkks694gI/AAAAAAAAQSs/49tnoLRc97U/s1600/Bajrangi%2BBhaijaan%2B2015%2BHindi%2BUntouched%2BCam%2B700mb.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-s5I9oaOyUxw/Vbca0Wl4xBI/AAAAAAAAQag/m1nUIfGy8dI/s1600/Vikalp%2B2015%2BHindi%2BDVDRip%2B700mb.jpg</thumbnail>
 </item>
 
+<!-- Manjhi The Mountain Man 2015 Hindi DesiSCR 700mb ESub DDR -->
 <item>
-<title>MR X (2015) [COLOR lime] DVD [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Manjhi The Mountain Man (2015) [COLOR yellow] DVDSCR [/COLOR]DesiSCR 700mb ESub DDR [COLOR gold] [/COLOR] </title>
 <link>
-	<sublink>http://185.45.14.74/kj2vzaruee6vtaw52bhj4zudm3ze77xztkimwfpvnz6poljnlavmmev35ctq/v.mp4</sublink>
+	<sublink></sublink>
+	<sublink>http://www71.uptobox.com/stream/bh0v3w6433/360/0</sublink>
+	<sublink>http://vodlocker.com/xzx4fn8vw01l</sublink>
+	<sublink>http://hugefiles.net/vhket8j1pguy</sublink>
+	<sublink>http://www.nowvideo.sx/video/c6ba521c4928b</sublink>
+	<sublink>https://www.cloudy.ec/v/eef707e6c868b</sublink>
+	<sublink>http://mightyupload.com/78j3zotp33h8/World4uFRee.cc_manji7ds.mkv.html</sublink>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-W_mTfHgHGzI/VTG_JgSXrYI/AAAAAAAANM4/4PfWejz3qDo/s400/MR%2BX%2B2015%2BHindi%2BPREDVDRip%2B700mb%2BNew%2BSource.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-6JMxF-k1P9c/Vcg9chuKaeI/AAAAAAAAQpU/7Kntv4lhg4Y/s1600/Manjhi%2BThe%2BMountain%2BMan%2B2015%2BHindi%2BDesiSCR%2B700mb%2BESub%2BDDR.jpg</thumbnail>
 </item>
 
+<!-- Drishyam 2015 Hindi DVDScr 700mb (Audio Cleaned) -->
 <item>
-<title>Bombay Velvet (2015) [COLOR lime] DVD [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Drishyam (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDScr 700mb (Audio Cleaned)[/COLOR] </title>
 <link>
-	<sublink>http://185.45.14.86/kj2vyeqtee6vtaw52bez4ow2fdne5vzfvrexo5moau7wdhqqky2cmefo5b7q/v.mp4</sublink>
+	<sublink>http://www80.uptobox.com/stream/bh0pm8521d/360/0</sublink>
+	<sublink>http://www56.uptobox.com/stream/bh0tzh2c73/360/0</sublink>
+	<sublink>http://livematch.org.uk/newapp/upload/drishyam.flv</sublink>
+	<sublink>rtmp://38.74.197.41:80/vod/mp4:/mp4/high/2015010070_00.mp4</sublink>
+	<sublink>http://vodlocker.com/oja91zesquwj</sublink>
+	<sublink>http://hugefiles.net/2q3ctoc11wc3</sublink>
+	<sublink>http://www.nowvideo.sx/video/3933aee0f729e</sublink>
+	<sublink>https://www.cloudy.ec/v/0efe3ca6aaefc</sublink>
+	<sublink>http://mightyupload.com/cfaggti74ovz/World4uFRee.cc_drim7ds.mkv.html</sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-ORJ-vcF401Y/VQpJSMdsuaI/AAAAAAAALLM/yxYu9qlSQzU/s1600/Bombay%2BVelvet%2B2015%2BOfficial%2BTrailer%2B720p%2BHD.jpg</thumbnail>
+<thumbnail>http://www.boxofficemovies.in/now/wp-content/uploads/Drishyam-movie-new-poster-released-on-14-july-2015.jpg</thumbnail>
 </item>
 
+<!-- Brothers 2015 Hindi pDVDRip 700mb -->
 <item>
-<title>Piku (2015) [COLOR lime] DVD [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Brothers (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDSCR 700mb[/COLOR] </title>
 <link>
-	<sublink>http://5.79.72.161/kj2vygbgee6vtaw52bhj4kg4nqv7gestxcaacmemxn3fsfp4skpishtuhmza/v.mp4</sublink>
+	<sublink>http://www50.uptobox.com/stream/bh0r4hed35/360/0</sublink>
+	<sublink></sublink>
+	<sublink>http://vodlocker.com/lsyuu1nbb1tq</sublink>
+	<sublink>http://hugefiles.net/zsnpf28je60u</sublink>
+	<sublink>http://www.nowvideo.sx/video/82e6daf9c0e89</sublink>
+	<sublink>https://www.cloudy.ec/v/d02b44160d6b5</sublink>
+	<sublink>http://mightyupload.com/b4ybzpgjlv50/World4uFRee.cc_brther7pd.mkv.html</sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-9J-q7DT-mjc/VU7ycGl7rJI/AAAAAAAAOs0/B7Cf6o_sExI/s1600/Piku%2B2015%2BHindi%2BpDVDRip%2B700mb%2BDDR.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-GV9ONq6nkT8/Vc4rFJxfDXI/AAAAAAAAQvU/dH6CkOWMSGM/s400/Brothers%2B2015%2BHindi%2BpDVDRip%2B700mb.jpg</thumbnail>
 </item>
 
+<!-- Jaanisaar 2015 Hindi pDVDRip 700mb -->
 <item>
-<title>I Love NY (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Jaanisaar (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDSCR 700mb[/COLOR] </title>
 <link>
-	<sublink>http://37.48.104.133/kj2vyfqwee6vtaw52bez4mw2gkmlcrruts7nssx5pmm6akuy6cndnltytl6q/v.mp4</sublink>
+	<sublink>http://www52.uptobox.com/stream/bh0w2875eb/360/0</sublink>
+	<sublink></sublink>
+	<sublink>http://vodlocker.com/b8c5qyinc47d</sublink>
+	<sublink>http://hugefiles.net/d4hwrqlc37ew</sublink>
+	<sublink>http://www.nowvideo.sx/video/902127b983e76</sublink>
+	<sublink>https://www.cloudy.ec/v/8259772c2348a</sublink>
+	<sublink>http://mightyupload.com/zomt35vocnod/World4uFRee.cc_janisar7pd.mkv.html</sublink>
 </link>
-<thumbnail>http://1.bp.blogspot.com/-uZ_BMTrBVSI/VaCsmriZmOI/AAAAAAAAQNY/q4hdmRSkVwM/s1600/I%2BLove%2BNY%2B2015%2BHindi%2BSCamRip%2B700mb.jpg</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-nY8PO9Nka5g/Vc3WKbwL4EI/AAAAAAAAQu0/EXiaFjmvUBw/s1600/Jaanisaar%2B2015%2BHindi%2BpDVDRip%2B700mb.jpg</thumbnail>
 </item>
 
+<!-- Bangistan 2015 Hindi PREDVDRip 700mb DDR -->
 <item>
-<title>Second Hand Husband (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDScr 700mb BEST[/COLOR] </title>
+<title>Bangistan (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDSCR 700mb DDR[/COLOR] </title>
 <link>
-	<sublink>http://185.45.14.9/kj2vzvagee6vtaw52bej4joehngnr57w2ybt3l6abzjkc7twyva2fx4eiasq/v.mp4</sublink>
+	<sublink>http://www66.uptobox.com/stream/bh0sqwd50b/360/0</sublink>
+	<sublink>http://livematch.org.uk/newapp/upload/Bangi.flv</sublink>
+	<sublink>http://vodlocker.com/vo2vzs5fgsft</sublink>
+	<sublink>http://hugefiles.net/a6lvp5k1brmt</sublink>
+	<sublink>http://www.nowvideo.sx/video/a4f4c8e756c3b</sublink>
+	<sublink>https://www.cloudy.ec/v/65c576facab75</sublink>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-aNyx1OQBhVE/VZf0zF7A2GI/AAAAAAAAQJE/OBwgXGu5b3A/s400/Second%2BHand%2BHusband%2B2015%2BHindi%2BDVDScr%2B700mb%2BBEST.jpg</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-tz-juhoFfow/VcWZO9CqVGI/AAAAAAAAQos/Y6r81f-xXw0/s1600/Bangistan%2B2015%2BHindi%2BPREDVDRip%2B700mb%2BDDR.jpg</thumbnail>
 </item>
 
-
+<!-- Sardaar Ji 2015 Punjabi DVDRip 700mb ESub -->
 <item>
-<title>Gabbar is Back (2015) [COLOR lime] DVD [/COLOR] [COLOR gold] [/COLOR] </title>
+<title>Sardaar Ji (2015) [COLOR lime] DVD [/COLOR] [COLOR gold]DVDRip 700mb ESub[/COLOR] </title>
 <link>
-	<sublink>http://103.43.94.20/l7z7kewydanhgn4vfkrreheor7n2734peglhkonicbal4lp4f6rsmatguvqa/v.flv</sublink>
+	<sublink>http://www50.uptobox.com/stream/bh0t2t5e78/360/0</sublink>
 </link>
-<thumbnail>http://4.bp.blogspot.com/-fyChNH1qL-Q/VUTOVIvY_iI/AAAAAAAAOO0/KJ0joDvh5wQ/s400/Gabbar%2Bis%2BBack%2B2015%2BHindi%2BDVDScr%2B700mb%2BDDR.jpg</thumbnail>
-</item>
-
-<!-- Bajrangi Bhaijaan 2015 Hindi DVDScr 700mb (Audio Cleaned) DDR -->
-<item>
-<title>Bajrangi Bhaijaan (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold] [/COLOR] </title>
-<link>
-	<sublink>http://185.45.15.120/kj2vzxjyee6vtaw52bhz4pwrfutbuwszuulkqe2tp7dcwumcxj5yzcvrewpq/v.mp4</sublink>
-</link>
-<thumbnail>http://2.bp.blogspot.com/-VT6pz-qUrl8/Vajkks694gI/AAAAAAAAQSs/49tnoLRc97U/s1600/Bajrangi%2BBhaijaan%2B2015%2BHindi%2BUntouched%2BCam%2B700mb.jpg</thumbnail>
-</item>
-
-
-<item>
-<title>Dil Dhadakne Do (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold] [/COLOR] </title>
-<link>
-	<sublink>http://103.43.94.20/l7z7kls2danhgn4vfkvbedepqdeolqqudzqx67tflwuyphys3phcgwpdikjq/v.flv</sublink>
-</link>
-<thumbnail>http://onlinemoviesgold.com/wp-content/uploads/2015/06/Dil-Dhadakne-Do-Poster.jpg</thumbnail>
-</item>
-
-<item>
-<title>Detective Byomkesh Bakshy (2015) [COLOR lime] DVD [/COLOR] [COLOR gold] [/COLOR] </title>
-<link>
-	<sublink>http://103.43.94.194/l7z7bh7da4nhgn4vfk2refwps5q7cvsk22zy2xqlxcqeu2yydfiiekvmlaja/v.flv</sublink>
-</link>
-<thumbnail>http://2.bp.blogspot.com/-AvjJsl7qhJY/VL_PrP0a0TI/AAAAAAAAHSM/gzlRIUmg6Ow/s1600/Detective%2BByomkesh%2BBakshy%2B2015%2BOfficial%2BTrailer%2B720p%2BHD.jpg</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-SUt1AxTCs30/VY5C8EmiFZI/AAAAAAAAP-E/cbuLQWf1Bys/s1600/Sardaar%2BJi%2B%2528U%2529%2B2015%2BPunjabi%2BDVDSCr%2B700mb.jpg</thumbnail>
 </item>
 
 <!-- Bajrangi Bhaijaan 2015 Hindi DVDScr 700mb (Audio Cleaned) DDR -->
@@ -248,23 +270,6 @@
 </item>
 
 
-<!-- Sardaar Ji (U) 2015 Punjabi DVDSCr 700mb -->
-<item>
-<title>Sardaar Ji (U) (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDSCr 700mb [/COLOR] </title>
-<link>
-	<sublink>https://1dfbboo.dl.openload.io/dl/l/xtsr6z-8-gc/World4uFRee.cc_sardarji7ds.avi.mp4</sublink>
-	<sublink>http://www57.uptobox.com/stream/9lsay8ad09/360/0</sublink>
-	<sublink>http://vodlocker.com/q7zeou6bfu8k</sublink>
-	<sublink>http://hugefiles.net/uv1zpzt9i8hp</sublink>
-	<sublink>http://played.to/7iff81xwizwr</sublink>
-	<sublink>http://www.nowvideo.sx/video/c03b5cf485ac2</sublink>
-	<sublink>https://www.cloudy.ec/v/6e3519aa15527</sublink>
-	<sublink>http://mightyupload.com/04cnaogx777h/World4uFRee.cc_sardarji7ds.avi.html</sublink>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-SUt1AxTCs30/VY5C8EmiFZI/AAAAAAAAP-E/cbuLQWf1Bys/s1600/Sardaar%2BJi%2B%2528U%2529%2B2015%2BPunjabi%2BDVDSCr%2B700mb.jpg</thumbnail>
-</item>
-
-
 <!-- Guddu Rangeela 2015 Hindi pDVD Rip 700mb BEST -->
 <item>
 <title>Guddu Rangeela (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]pDVD Rip 700mb BEST[/COLOR] </title>
@@ -312,24 +317,5 @@
 </link>
 <thumbnail>http://4.bp.blogspot.com/-QO4aaKznN_c/VY5SEfO-xII/AAAAAAAAP-U/cjpuYTHQrkE/s1600/Miss%2BTanakpur%2BHaazir%2BHo%2B2015%2BHindi%2BpDVDRip%2B700mb.jpg</thumbnail>
 </item>
-
-
-
-<!-- Abcd 2 2015 Hindi DVDScr 700mb BESt -->
-<item>
-<title>Abcd 2 (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDScr 700mb BESt[/COLOR] </title>
-<link>
-	<sublink>https://pgli38.dl.openload.io/dl/l/V1aDBh6FOrc/World4uFRee.cc_abcd2ds7.mkv.mp4</sublink>
-	<sublink>http://vodlocker.com/0eayv58vh2j2</sublink>
-	<sublink>http://hugefiles.net/jxgcchz27fpr</sublink>
-	<sublink>http://played.to/tycqlwspmuy7</sublink>
-	<sublink>http://www.nowvideo.sx/video/2cf02864a5949</sublink>
-	<sublink>https://www.cloudy.ec/v/a3c13eba1bdd4</sublink>
-	<sublink>http://mightyupload.com/30jb0q3h5z99/World4uFRee.cc_abcd2ds7.mkv.html</sublink>
-</link>
-<thumbnail>http://4.bp.blogspot.com/-57TYHQfRezI/VYaaKRTRKZI/AAAAAAAAP2U/d-dI4TveEN0/s400/Abcd%2B2%2B2015%2BHindi%2BDVDScr%2B700mb%2BDDR.jpg</thumbnail>
-</item>
-
-
 
 
