@@ -9,18 +9,18 @@
 </info>
 
 <info>
-	<message>[B][COLOR orange] Check Out MoviesHD.eu![/COLOR][/B]</message>
+	<message>[B][COLOR orange] Check Out MoviesHD.eu Site and Addon![/COLOR][/B]</message>
 	<message>[B][COLOR steelblue]PLEASE Tweet Your [/COLOR][COLOR white]SUPPORT![/COLOR][/B]</message>
 </info>
 
 
 <directories>
 	
-	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 26 AUG [/COLOR]</name>
+	<name>[COLOR blue]--=HD Releases=--[/COLOR] [COLOR red] 28 AUG [/COLOR]</name>
 	<link>http://uuu.my/fobhd</link>
 	<thumbnail>http://th08.deviantart.net/fs50/PRE/i/2009/312/b/a/hd_logo_free_psd_by_felisleox.jpg</thumbnail>
 
-	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 26 AUG [/COLOR]</name>
+	<name>[COLOR green]--=DVD Releases=--[/COLOR] [COLOR red] 28 AUG [/COLOR]</name>
 	<link>http://uuu.my/fobdvd</link>
 	<thumbnail>http://hollywood-multimedia.com/assets/images/dvd_logo.png</thumbnail>
 
@@ -46,6 +46,16 @@
 	<sublink> </sublink>	
 </link>
 <thumbnail> </thumbnail>
+
+<!-- Dil Dhadakne Do 2015 Hindi DVDRip 700mb ESub -->
+<item>
+<title>Dil Dhadakne Do (2015) [COLOR lime] DVD [/COLOR] [COLOR gold]DVDRip 700mb ESub[/COLOR] </title>
+<link>
+	<sublink>https://openload.io/f/VF2qHX_VkHk/World4uFRee.cc_DDD7dd.mkv</sublink>
+	<sublink>http://uptobox.com/b3n4abjizw4j</sublink>
+</link>
+<thumbnail>http://1.bp.blogspot.com/-lj1uNaPhl28/VW_bMZ2D6WI/AAAAAAAAPqc/8l07b7Yr-9w/s400/dil-dhadakne-do-poster.jpg</thumbnail>
+</item>
 
 <!-- Dil Dhadakne Do 2015 Hindi WEBRip 700mb -->
 <item>
@@ -97,6 +107,23 @@
 </link>
 <thumbnail>http://1.bp.blogspot.com/-s5I9oaOyUxw/Vbca0Wl4xBI/AAAAAAAAQag/m1nUIfGy8dI/s1600/Vikalp%2B2015%2BHindi%2BDVDRip%2B700mb.jpg</thumbnail>
 </item>
+
+<!-- Phantom 2015 Hindi DVDScr 700mb -->
+<item>
+<title>Phantom (2015) [COLOR yellow] DVDSCR [/COLOR] [COLOR gold]DVDScr 700mb[/COLOR] </title>
+<link>
+	<sublink>http://uptobox.com/4ng73x6cxz8h</sublink>
+	<sublink>http://www73.uptobox.com/stream/cdb1tha073/360/0</sublink>
+	<sublink>https://openload.io/f/o-z2NnfWz9Q/World4uFRee.cc_phot7ds.mkv</sublink>
+	<sublink>https://ph2doz.dl.openload.io/dl/l/5NQUcPg-8DI/World4uFRee.cc_phot7ds.mkv.mp4</sublink>
+	<sublink>http://vodlocker.com/kzhqhwlghj1s</sublink>
+	<sublink>http://hugefiles.net/tqzw8ewqwcu7</sublink>
+	<sublink>http://www.nowvideo.sx/video/f37efa7ce3687</sublink>
+	<sublink>http://mightyupload.com/brxxfm8x5mhy/World4uFRee.cc_phot7ds.mkv.html</sublink>
+</link>
+<thumbnail>http://1.bp.blogspot.com/-CSDeOZosVZI/VeBSutIgvWI/AAAAAAAAQ64/vw5bfF_wWxk/s1600/Phantom%2B2015%2BHindi%2BDVDScr%2B700mb.jpg</thumbnail>
+</item>
+
 
 <!-- Munde Kamaal De 2015 Punjabi pDVDRip 700mb BEST -->
 <item>
